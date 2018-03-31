@@ -29,8 +29,8 @@ Route::group([], function() {
 // Route::get('/create', function(){
 //    App\User::create([
 //        'name' => 'SomeName',
-//        'email' => 'SomeMail@gmail.com',
-//        'login' => 'admin',
+//        'email' => 'some@mail',
+//        'login' => 'somelogin',
 //        'password' => bcrypt('SomePassword'),
 //    ]);
 // });
